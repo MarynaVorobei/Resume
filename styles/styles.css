@@ -170,4 +170,7 @@ p,
     display: flex;
     flex-direction: column;
   }
+  h2 {
+    line-height: 30px;
+  }
 }
