@@ -119,9 +119,7 @@ p,
   margin-top: 40px;
 }
 
-.project-item,
-.project-bracket,
-.line {
+.project-item {
   font-weight: bold;
   color: #000;
 }
@@ -132,7 +130,6 @@ p,
   margin-left: 10px;
 }
 
-.work,
 .education {
   margin-top: 50px;
 }
